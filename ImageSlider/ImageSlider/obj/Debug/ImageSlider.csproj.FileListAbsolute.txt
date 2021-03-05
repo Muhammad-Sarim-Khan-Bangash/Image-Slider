@@ -1,0 +1,10 @@
+G:\PF Project\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe.config
+G:\PF Project\ImageSlider\ImageSlider\bin\Debug\ImageSlider.exe
+G:\PF Project\ImageSlider\ImageSlider\bin\Debug\ImageSlider.pdb
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Form1.resources
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.Properties.Resources.resources
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csproj.GenerateResource.cache
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csproj.CoreCompileInputs.cache
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.exe
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.pdb
+G:\PF Project\ImageSlider\ImageSlider\obj\Debug\ImageSlider.csprojAssemblyReference.cache
